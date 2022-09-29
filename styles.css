@@ -1,0 +1,8 @@
+#projects td {
+    padding: 5%;
+}
+
+#projects td.visual {
+    text-align: center;
+    width: 220px;
+}
