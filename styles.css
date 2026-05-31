@@ -9,10 +9,12 @@
 #projects td.visual {
     text-align: center;
     width: 220px;
+    padding: 0;
 }
 
 #projects td.visual img {
     width: 100%;
+    border: 1px solid black;
 }
 
 img {
