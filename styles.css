@@ -1,4 +1,4 @@
-#projects td {
+#projects tr {
     padding: 5%;
 }
 
@@ -9,7 +9,6 @@
 #projects td.visual {
     text-align: center;
     width: 220px;
-    padding: 0;
 }
 
 #projects td.visual img {
